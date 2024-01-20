@@ -1,0 +1,12 @@
+filament
+
+http://127.0.0.1:8000/admin/login
+Name: admin
+Email Address: admin@admin.com
+Password: Admin123!
+
+
+http://127.0.0.1:8000
+
+wa.me/+6281286866769?text=hello world !
+https://api.whatsapp.com/send/?phone=%252B6281286866769&text=hello+world+!
